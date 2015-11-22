@@ -29,3 +29,4 @@ contributors will be credited as well.
 
 [1] http://blog.getpaint.net/2009/11/06/a-new-license-for-paintnet-v35/
 [2] http://opensource.org/docs/osd
+Paint.NET 3.36.7
